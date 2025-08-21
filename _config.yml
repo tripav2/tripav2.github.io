@@ -7,17 +7,15 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Viha's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Viha
+headline: Electrical Engineering Student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I’m an Electrical Engineering student at McMaster University with a passion for tackling complex problems and turning ideas into practical solutions. Through my coursework and projects, I’ve built experience in programming, circuit design, and hands-on prototyping. I enjoy exploring how technology can be applied in creative ways, whether in academics, design teams, or personal projects. Beyond technical skills, I thrive in collaborative environments where I can learn, share ideas, and grow as an engineer.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
