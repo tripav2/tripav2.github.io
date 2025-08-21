@@ -23,70 +23,75 @@ profile_image: ./assets/images/profile-image/dp pic.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: ./assets/resume/resume.pdf
+resume-url: ./assets/resume/Viha_Tripathi_Resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  linkedin: vihatripathi     #https://www.linkedin.com/in/vihatripathi/
+  github: tripav2    # https://github.com/{your url slug} 
+  #stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  #medium:            # https://medium.com/@{your url slug} 
+  #x-twitter:   # https://x.com/{your url slug} 
+  #threads:            # https://threads.net/@{your url slug} 
+  #instragram:       # https://instagram.com/{your url slug} 
+  #youtube:           # https://youtube.com/@{your url slug} 
+  #discord:            # https://discord.com/users/{your url slug} 
+  #bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Programming & Software
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+      - Python
+      - C / C++
+      - MATLAB
+      - Verilog / VHDL
+      - JavaScript
+      - HTML / CSS
+      - R
+      - SQL
+      - Git
+      - Visual Studio
+      - PyCharm
+      - Microsoft Office (Word, Excel, PowerPoint)
+      - Google Workspace
+
+  - category: Hardware & Circuit Design
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+      - Assembly
+      - Embedded Systems
+      - Power Systems
+      - Circuit Design & Hardware Interfacing
+      - PLC Programming
+      - Electrical Schematics (ORCAD PSpice, LTSpice)
+      - Microcontroller Programming
+      - Function Generators
+      - Breadboarding
+      - Power Supply
+      - Oscilloscopes
+      - Digital Multimeter
+      - Analog Discovery 3
+
+  - category: CAD & Prototyping
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+      - AutoCAD
+      - Solidworks
+      - 3D Printing
+      - Laser Printing
+
+  - category: Other Technical Skills
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+      - Figma (for design/visual content)
+      - Team collaboration & project documentation
+      - Technical writing & presentations
+
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/xrblvwne
 
 
 
